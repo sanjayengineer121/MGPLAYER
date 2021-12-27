@@ -4,9 +4,8 @@
 <h3 dir="auto"><a id="user-content--included-features" class="anchor" aria-hidden="true" href="#-included-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> Included Features</h3>
 
 <ul dir="auto">
-<li>Base 3 themes (Clearly White, Kinda Dark and Just Black)</li>
+<li>Base 3 themes (Clearly White)</li>
 <li>Chromecast support</li>
-<li>Choose from 10+ now playing themes</li>
 <li>Driving Mode</li>
 <li>Headset/Bluetooth support</li>
 <li>Music duration filter</li>
@@ -15,15 +14,13 @@
 <li>Volume controls</li>
 <li>Carousel effect for album covers</li>
 <li>Home screen widgets</li>
-<li>Lock screen playback controls</li>
-<li>Lyrics screen (download and sync with music)</li>
-<li>Sleep timer</li>
+<li>Lock screen playback </li>
+<li>Sleep music</li>
 <li>Easy drag to sort playlist &amp; play queue</li>
-<li>Tag editor</li>
+<li>Tag Show</li>
 <li>Create, edit and import playlists</li>
 <li>Playing queue with reorder</li>
 <li>User profile</li>
-<li>30+ languages support (help translate the project: <a href="https://crowdin.com/project/retromusicplayer" rel="nofollow">Crowdin</a></li>
 <li>Browse and play your music by songs, albums, artists, playlists and
 genre</li>
 <li>Smart Auto Playlists - Recently played, most played and history</li>
