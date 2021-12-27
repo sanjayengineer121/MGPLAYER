@@ -4,24 +4,32 @@
 Included Features
 Sleep timer
 
-Base 3 themes (Clearly White)
-Chromecast support no
-Driving Mode
-Headset/Bluetooth support
-Music duration filter
-Folder support - Play songs by folder
-Gapless playback
-Volume controls
-Carousel effect for album covers
-Home screen widgets
-Lock screen playback controls
-Sleep timer
-Easy drag to sort playlist & play queue
-Create, edit and import playlists
-Playing queue with reorder
-Browse and play your music by songs, albums, artists, playlists and genre
-Build your playlist on the go
-Browse and play your music by songs, albums, artists, playlists and genre
+<ul dir="auto">
+<li>Base 3 themes (Clearly White, Kinda Dark and Just Black)</li>
+<li>Chromecast support</li>
+<li>Choose from 10+ now playing themes</li>
+<li>Driving Mode</li>
+<li>Headset/Bluetooth support</li>
+<li>Music duration filter</li>
+<li>Folder support - Play songs by folder</li>
+<li>Gapless playback</li>
+<li>Volume controls</li>
+<li>Carousel effect for album covers</li>
+<li>Home screen widgets</li>
+<li>Lock screen playback controls</li>
+<li>Lyrics screen (download and sync with music)</li>
+<li>Sleep timer</li>
+<li>Easy drag to sort playlist &amp; play queue</li>
+<li>Tag editor</li>
+<li>Create, edit and import playlists</li>
+<li>Playing queue with reorder</li>
+<li>User profile</li>
+<li>30+ languages support (help translate the project: <a href="https://crowdin.com/project/retromusicplayer" rel="nofollow">Crowdin</a></li>
+<li>Browse and play your music by songs, albums, artists, playlists and
+genre</li>
+<li>Smart Auto Playlists - Recently played, most played and history</li>
+<li>Build your playlist on the go</li>
+</ul>
 
 🎨 Colorful
 <br>
