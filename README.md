@@ -34,3 +34,4 @@ You can choose between three different main themes: Clearly White, Kinda Dark an
 # how to use
 
 1 create mgplayer.py a shortcut and paste it to desktop and enjoy
+<img src="https://github.com/sanjayengineer121/MGPLAYER/blob/main/Icon/icon.png">
