@@ -1,4 +1,4 @@
-# MGPLAYER is simple music player which is created by python and some advance which is very useful to all
+# MGPLAYER is Simple Music Player which is Created by Python and Some Advance Features which is very useful to All Music Lovers...
 <img src="https://github.com/sanjayengineer121/MGPLAYER/blob/main/Icon/icon.png">
 
 
