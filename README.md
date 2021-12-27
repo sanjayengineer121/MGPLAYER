@@ -2,6 +2,8 @@
 
 
 Included Features
+Sleep timer
+
 Base 3 themes (Clearly White)
 Chromecast support no
 Driving Mode
